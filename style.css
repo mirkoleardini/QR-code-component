@@ -39,7 +39,6 @@ img {
 }
 
 .text {
-  text-align: center;
   margin-top: 24px;
   display: flex;
   flex-direction: column;
@@ -47,22 +46,24 @@ img {
 }
 
 .text h1 {
+  text-align: center;
   font-size: 22px;
   font-weight: 700;
   color: var(--Darkblue);
-  line-height: 28px;
+  line-height: 27.72px;
   word-spacing: 1px;
   width: 288px;
   height: 56px;
 }
 
 .text p {
+  text-align: center;
   font-size: 15px;
   font-weight: 400;
   color: var(--Grayishblue);
   margin-top: 16px;
   letter-spacing: 0.19px;
-  line-height: 19px;
+  line-height: 18.9px;
   word-spacing: 1px;
   width: 256px;
   height: 57px;
