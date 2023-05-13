@@ -47,11 +47,9 @@ img {
 
 .text h1 {
   text-align: center;
-  vertical-align: top;
   font-size: 22px;
   font-weight: 700;
   color: var(--Darkblue);
-  line-height: 27.72px;
   word-spacing: 1px;
   width: 288px;
   height: 56px;
@@ -59,13 +57,11 @@ img {
 
 .text p {
   text-align: center;
-  vertical-align: top;
   font-size: 15px;
   font-weight: 400;
   color: var(--Grayishblue);
   margin-top: 16px;
   letter-spacing: 0.19px;
-  line-height: 18.9px;
   word-spacing: 1px;
   width: 256px;
   height: 57px;
