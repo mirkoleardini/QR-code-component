@@ -41,6 +41,9 @@ img {
 .text {
   text-align: center;
   margin-top: 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .text h1 {
@@ -49,6 +52,8 @@ img {
   color: var(--Darkblue);
   line-height: 28px;
   word-spacing: 1px;
+  width: 288px;
+  height: 56px;
 }
 
 .text p {
@@ -56,8 +61,9 @@ img {
   font-weight: 400;
   color: var(--Grayishblue);
   margin-top: 16px;
-  padding: 0px 16px;
   letter-spacing: 0.19px;
   line-height: 19px;
   word-spacing: 1px;
+  width: 256px;
+  height: 57px;
 }
