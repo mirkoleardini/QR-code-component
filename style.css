@@ -47,6 +47,8 @@ img {
   font-size: 22px;
   font-weight: 700;
   color: var(--Darkblue);
+  line-height: 28px;
+  word-spacing: 1px;
 }
 
 .text p {
@@ -56,4 +58,6 @@ img {
   margin-top: 16px;
   padding: 0px 16px;
   letter-spacing: 0.19px;
+  line-height: 19px;
+  word-spacing: 1px;
 }
